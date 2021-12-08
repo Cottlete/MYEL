@@ -1,0 +1,59 @@
+* {
+    padding: 0; 
+    margin: 0;
+}
+
+body {
+    background-color: darkslategrey;
+}
+
+.freeshipping {
+    background-color: #D8BF95;
+    height: 29px;
+    width: 1440px;
+    text-align:  center;
+    padding-top: 11px;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.menu {
+    background-color: #F1F1F1;
+    height: 88px;
+    width: 1440px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.login_language_zero {
+    display: flex;
+    margin-right: 36px;
+    background-color: darkviolet;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.fr-en {
+    display: flex;
+}
+
+.shop {
+    margin-left: 30px;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.collections {
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.about_us {
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400; 
+}
