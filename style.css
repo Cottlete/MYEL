@@ -137,3 +137,70 @@ body {
     padding-right: 64px;
     padding-top: 125px;
 }
+
+.boxar {
+    width: 1440px;
+    background-color: #F1F1F1;
+    display: flex;
+
+}
+
+.SHOPNEWARRIVALS {
+    font-size: 24px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    margin-left: 64px;
+    background-color: darkseagreen;
+    margin-top: 153px;
+}
+
+.strelki {
+    background-color: darkred;
+    margin-left: 1002px;
+    display: flex;
+    margin-top: 163px;
+    
+}
+
+.left {
+  
+}
+
+.sellnews {
+  background-color: #F1F1F1;
+  width: 1440px;
+  display: flex;
+  justify-content: center;
+  padding-top: 60px;
+}
+
+.karneklesser {
+  padding-right: 107.18px  ;
+}
+
+.karnekleszol {
+  padding-left: 56px;
+}
+
+.steinecklace {
+  background-color: firebrick;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  padding-right: 111.18px;
+}
+
+.originespendant {
+  background-color: firebrick;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+
+.addcartfirst {
+display: flex;
+}
+
+.addcarttwo {
+display: flex;
+}
