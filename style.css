@@ -95,7 +95,7 @@ body {
 
 .alltextblock {
     width: 1440px;
-    height: 541px;
+    /* height: 541px; */
     background-color:#F1F1F1;
     display: flex;
     /* flex-direction: column; в колонка*/
@@ -150,12 +150,10 @@ body {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     margin-left: 64px;
-    background-color: darkseagreen;
     margin-top: 153px;
 }
 
 .strelki {
-    background-color: darkred;
     margin-left: 1002px;
     display: flex;
     margin-top: 163px;
@@ -163,27 +161,50 @@ body {
 }
 
 .left {
-  
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.right {
+  cursor: pointer;
 }
 
 .sellnews {
   background-color: #F1F1F1;
   width: 1440px;
   display: flex;
-  justify-content: center;
+  justify-content: space-between; 
+  /* Равное расстояние между блоками. Вместо центра, если растянется сайт. */
   padding-top: 60px;
 }
 
+.greennews {
+  margin-left: 86px;
+  /* border: 5px solid green; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 526px;
+}
+
+.orangenews {
+  margin-right: 86px;
+  height: 526px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+}
+
 .karneklesser {
-  padding-right: 107.18px  ;
+
 }
 
 .karnekleszol {
-  padding-left: 56px;
+  
 }
 
 .steinecklace {
-  background-color: firebrick;
   font-size: 16px;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
@@ -191,16 +212,24 @@ body {
 }
 
 .originespendant {
-  background-color: firebrick;
-  font-size: 16px;
+  font-size: 18px;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
 }
 
-.addcartfirst {
+
+.addcart {
 display: flex;
+justify-content: space-between;
+font-size: 14px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+
 }
 
-.addcarttwo {
-display: flex;
+.shopnow {
+  float: right;
+  font-size: 14px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
 }
