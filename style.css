@@ -90,74 +90,70 @@ body {
 }
 
 .banner {
-    display: flex;
+  display: flex;
 }
 
 .alltextblock {
-    width: 1440px;
-    /* height: 541px; */
-    background-color:#F1F1F1;
-    display: flex;
-    /* flex-direction: column; в колонка*/
-    /* flex-direction: row; в ряд*/
-
+  width: 1440px;
+  /* height: 541px; */
+  background-color: #f1f1f1;
+  display: flex;
+  /* flex-direction: column; в колонка*/
+  /* flex-direction: row; в ряд*/
 }
 
 .combined {
-
 }
 
 .responsible {
-    font-size: 64px;
-    font-family: "Roboto", sans-serif;
-    font-weight: 400; 
-    width: 892px;
-    /* height: 256px; */
-    margin-top: 116px;
-    margin-left: 64px;
+  font-size: 64px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  width: 892px;
+  /* height: 256px; */
+  margin-top: 116px;
+  margin-left: 64px;
 }
 
 .Spontaneous {
-    font-size: 20px;
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;  
-    width: 815px;
-    height: 25px; 
-    margin-top: 31px;
-    margin-left: 64px;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  width: 815px;
+  height: 25px;
+  margin-top: 31px;
+  margin-left: 64px;
 }
 
 .shopMYEL {
-    font-size: 18px;
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;  
-    flex-grow: 1;/* Элемент занимает все не занятое пространство. */
-    text-align: right;
-    /* margin-right: 64px; */
-    padding-right: 64px;
-    padding-top: 125px;
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  flex-grow: 1; /* Элемент занимает все не занятое пространство. */
+  text-align: right;
+  /* margin-right: 64px; */
+  padding-right: 64px;
+  padding-top: 125px;
 }
 
 .boxar {
-    width: 1440px;
-    background-color: #F1F1F1;
-    display: flex;
-
+  width: 1440px;
+  background-color: #f1f1f1;
+  display: flex;
 }
 
 .SHOPNEWARRIVALS {
-    font-size: 24px;
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
-    margin-left: 64px;
-    margin-top: 153px;
+  font-size: 24px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  margin-left: 64px;
+  margin-top: 153px;
 }
 
 .strelki {
-    margin-left: 1002px;
-    display: flex;
-    margin-top: 163px;
-    
+  margin-left: 1002px;
+  display: flex;
+  margin-top: 163px;
 }
 
 .left {
@@ -170,10 +166,10 @@ body {
 }
 
 .sellnews {
-  background-color: #F1F1F1;
+  background-color: #f1f1f1;
   width: 1440px;
   display: flex;
-  justify-content: space-between; 
+  justify-content: space-between;
   /* Равное расстояние между блоками. Вместо центра, если растянется сайт. */
   padding-top: 60px;
 }
@@ -193,15 +189,12 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-
 }
 
 .karneklesser {
-
 }
 
 .karnekleszol {
-  
 }
 
 .steinecklace {
@@ -217,14 +210,12 @@ body {
   font-weight: 400;
 }
 
-
 .addcart {
-display: flex;
-justify-content: space-between;
-font-size: 14px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
-
 }
 
 .shopnow {
@@ -235,7 +226,7 @@ font-size: 14px;
 }
 
 .shirt2 {
-  background-color: #F1F1F1;
+  background-color: #f1f1f1;
   width: 1440px;
   display: flex;
   /* дисплей флекс нужен для работы флексов */
@@ -243,11 +234,9 @@ font-size: 14px;
 }
 
 .shirtgirl {
-
 }
 
 .menushirt {
-
 }
 
 .bonneshirt {
@@ -258,8 +247,6 @@ font-size: 14px;
   font-size: 44px;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
-  
-
 }
 
 .supportcampaign {
@@ -269,16 +256,49 @@ font-size: 14px;
   font-size: 14px;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
-
 }
 
 .jewelry {
-  background-color: #a31d1d;
-  width: 1440px;
-  display: flex;
+  background-color: #f1f1f1;
+  width: 1312px;
+  padding: 43px 64px 0 64px;
 
 }
 
 .browsebycat {
-  background-color: #14ac8b
+  font-size: 24px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  margin-bottom: 16px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.strelki2 {
+  display: flex;
+}
+
+.left2 {
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.right2 {
+  cursor: pointer;
+}
+
+.imagejewelry {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.coub {
+  display: flex;
+  justify-content: center;
+
+}
+
+.blackcoub {
+  margin-right: 12px;
 }
