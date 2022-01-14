@@ -262,7 +262,6 @@ body {
   background-color: #f1f1f1;
   width: 1312px;
   padding: 43px 64px 0 64px;
-
 }
 
 .browsebycat {
@@ -290,15 +289,44 @@ body {
 .imagejewelry {
   display: flex;
   justify-content: space-between;
-
 }
 
 .coub {
   display: flex;
   justify-content: center;
-
 }
 
 .blackcoub {
   margin-right: 12px;
+}
+
+.books {
+  display: flex;
+  background-color: #f1f1f1;
+  width: 1440px;
+  padding-top: 89px;
+}
+
+.oneofkind {
+  position: absolute;
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  margin: 31px 0 0 45px;
+}
+
+.text{
+  background-color: #f1f1f1;
+  width: 1440px;
+}
+
+.together {
+  font-size: 43px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  width: 630px;
+  height: 240px;
+  
+  padding-top: 127px;
+  padding-left: 64px;
 }
