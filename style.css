@@ -233,3 +233,52 @@ font-size: 14px;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
 }
+
+.shirt2 {
+  background-color: #F1F1F1;
+  width: 1440px;
+  display: flex;
+  /* дисплей флекс нужен для работы флексов */
+  padding-top: 180px;
+}
+
+.shirtgirl {
+
+}
+
+.menushirt {
+
+}
+
+.bonneshirt {
+  position: absolute;
+  /*абсолют, что бы был текст в картинке */
+  margin-top: 47px;
+  margin-left: 50px;
+  font-size: 44px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  
+
+}
+
+.supportcampaign {
+  position: absolute;
+  margin-top: 854px;
+  margin-left: 50px;
+  font-size: 14px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+
+}
+
+.jewelry {
+  background-color: #a31d1d;
+  width: 1440px;
+  display: flex;
+
+}
+
+.browsebycat {
+  background-color: #14ac8b
+}
