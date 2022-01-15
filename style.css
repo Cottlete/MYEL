@@ -382,3 +382,120 @@ body {
   text-align: center;
 }
 
+.learnmore {
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  background-color: #f1f1f1;
+  width: 1376px;
+  padding-left: 64px;
+  padding-top: 54px;
+  padding-bottom: 50px;
+}
+
+.ringmenu {
+  display: flex;
+  width: 1440px;
+  background-color: #f1f1f1;
+}
+
+.ring1 {
+  /* position: absolute; */
+}
+
+.EVERYGRAMCOUNTS {
+  position: absolute;
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  margin-top: 67px;
+  margin-left: 50px;
+}
+
+.FairminedGold {
+  position: absolute;
+  font-size: 48px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  width: 586px;
+  margin-top: 47px;
+  margin-left: 50px;
+}
+
+.ShopFairmined {
+  position: absolute;
+  font-size: 14px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  margin-top: 854px;
+  margin-left: 50px;
+}
+
+.handstart {
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  width: 1312px;
+  padding: 80px 64px 0 64px;
+}
+
+.exceptional {
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  color: #FFFFFF;
+}
+
+.handsend {
+  position: absolute;
+  padding-left: 64px;
+
+}
+
+.subscribe {
+  font-size: 46px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  color: #FFFFFF;
+  width: 304px;
+  padding-top: 294px;
+}
+
+.receive {
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  color: #FFFFFF;
+  margin-top: 29px;
+}
+
+.tire {
+  margin-top: 30px;
+  width: 420px;
+  display: flex;
+  justify-content: right;
+}
+
+.email-input {
+  width: 420px;
+  font-size: 24px;
+  height: 28px;
+  background-color: rgba(255, 255, 255, 0);
+  outline: none;
+  border: none;
+  border-bottom: 1px solid white;
+  color: #FFFFFF;
+}
+
+.inputEnter {
+  position: absolute;
+  cursor: pointer;
+  /* text-align: right; для перемещения текста в конец */
+  
+}
+
+.handsmenu {
+  padding-top: 90px;
+  background-color: #f1f1f1;
+  width: 1440px;
+}
