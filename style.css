@@ -315,7 +315,7 @@ body {
   margin: 31px 0 0 45px;
 }
 
-.text{
+.text {
   background-color: #f1f1f1;
   width: 1440px;
 }
@@ -326,7 +326,59 @@ body {
   font-weight: 400;
   width: 630px;
   height: 240px;
-  
   padding-top: 127px;
   padding-left: 64px;
 }
+
+.menuzor {
+  width: 1332px;
+  display: flex;
+  background-color: #f1f1f1;
+  /* justify-content: center; */
+  justify-content: space-between;
+  padding-top: 40px;
+  padding-left: 54px;
+  padding-right: 54px;
+}
+
+.zeroone {
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  margin-top: 68px;
+  margin-bottom: 72px;
+}
+
+/* .zerotwo {
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  margin-top: 68px;
+}
+
+.zerothree {
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  margin-top: 68px;
+} */
+
+.text3 {
+  font-size: 24px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  width: 424px;
+}
+
+
+.alluzor1 {
+  /* width: 33%; */
+  flex-grow: 1;
+  padding: 0 10px;
+}
+
+.uzor1 {
+  /* margin-left: 160px; */
+  text-align: center;
+}
+
